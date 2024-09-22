@@ -1,0 +1,35 @@
+// Example of a unremovable constructed WebClip with all of the data fields filled.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IgnoreManifestScope</key>
+            <true/>
+            <key>IsRemovable</key>
+            <false/>
+            <key>Label</key>
+            <string>WebClip Spam PoC</string>
+            <key>Icon</key>
+            <data>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</data>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://www.apple.com</string>
+            <key>PayloadIdentifier</key>
+            <string>webclip.spam.poc</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>10cfb189-2e59-413c-b04e-1417a36c4bbe</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+</dict>
+</plist>
