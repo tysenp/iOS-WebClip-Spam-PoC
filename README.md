@@ -59,7 +59,7 @@ This PoC demonstrates how a malicious actor could create a configuration profile
    - [ID]: Unique identifier for this WebClip
    - [UUID]: UUID for this WebClip
 
-2. To add multiple WebClips, copy and paste the entire `<dict> </dict>` block within the `<array>` for each new WebClip. You have to generate a new unique PayloadIdentifier and PayloadUUID for each WebClip to avoid errors! (Use a simple Python script which changes the PayloadIdentifier and PayloadUUID for every WebClip to create hundreds/thousands.)
+2. Use the 'autoCreate.py' Python script, and follow the instructions which are at the top.)
 
 ## References
 
