@@ -57,7 +57,7 @@ This PoC demonstrates how a malicious actor could create a configuration profile
    - [BASE64_ENCODED_IMAGE]: Base64-encoded icon image data
    - [URL]: Website URL the WebClip opens
 
-2. Use the 'autoCreate.py' Python script, and follow the instructions which are at the top.)
+2. Use the 'autoCreate.py' Python script, and follow the instructions which are at the top.
 
 ## References
 
