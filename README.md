@@ -59,7 +59,7 @@ This PoC demonstrates how a malicious actor could create a configuration profile
 
 2. Save the modified <dict> (with placeholders replaced) in a text file named "mobileConfig.txt".
 
-3. Run the Python script "autoCreate.py". This script will automatically replace [ID] and [UUID] with appropriate values.
+3. Run the Python script "autoCreate.py" and input how many WebClips you want. This script will automatically replace [ID] and [UUID] with appropriate values.
 
 4. After running the script, you'll receive an output .mobileconfig file. Open this file and add the following at the top:
 
