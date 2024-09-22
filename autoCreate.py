@@ -1,5 +1,5 @@
-# Please read usage first in the read me!
-# You can use this script to easily creat hundreds/thousands of WebClips.
+# Please read "Usage" first in the Read Me!
+# You can use this script to easily create hundreds/thousands of WebClips.
 # To start copy and paste the entire <dict> block within the <array> to a text file named "mobileConfig.txt" and set the vaule of <key>PayloadIdentifier</key> to "[ID]" and the vaule of <key>PayloadUUID</key> to "[UUID]".
 # And that's it, run and you will recieve your .mobileconfig file!
 
