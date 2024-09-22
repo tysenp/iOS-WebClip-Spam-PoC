@@ -56,8 +56,6 @@ This PoC demonstrates how a malicious actor could create a configuration profile
    - [APP_LABEL]: Name displayed under the WebClip icon
    - [BASE64_ENCODED_IMAGE]: Base64-encoded icon image data
    - [URL]: Website URL the WebClip opens
-   - [ID]: Unique identifier for this WebClip
-   - [UUID]: UUID for this WebClip
 
 2. Use the 'autoCreate.py' Python script, and follow the instructions which are at the top.)
 
